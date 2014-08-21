@@ -1,8 +1,6 @@
-## Main R script for data analysis
-
-# Initial path configuration
-datasetLocation <- "/Users/sagunms/Dropbox/Coursera/Data Science/Getting and Cleaning Data/Project/UCI HAR Dataset/"
-workspaceLocation <- "/Users/sagunms/Dropbox/Coursera/Data Science/Getting and Cleaning Data/Project/GettingAndCleaningData-Project/"
+# Initial path configuration (modify according to need)
+datasetLocation <- "~/Getting and Cleaning Data/Project/UCI HAR Dataset/"
+workspaceLocation <- "~/Getting and Cleaning Data/Project/GettingAndCleaningData-Project/"
 setwd(workspaceLocation)
 
 #install.packages('plyr')
